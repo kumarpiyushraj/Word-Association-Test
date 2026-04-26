@@ -4,7 +4,7 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0221,20:1a0a4e,55:3b1fa8,85:6d3de8,100:a78bfa&height=280&section=header&text=WAT&fontSize=90&fontColor=ede9fe&fontAlignY=38&fontStyle=bold&desc=Word%20Association%20Test%20%E2%80%94%20A%20digital%20platform%20for%20psychological%20assessment&descAlignY=60&descSize=17&descColor=c4b5fd&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:001a1a,20:003d3d,55:006b6b,85:00a896,100:02c39a&height=280&section=header&text=WAT&fontSize=90&fontColor=e0fff8&fontAlignY=38&fontStyle=bold&desc=Word%20Association%20Test%20%E2%80%94%20A%20digital%20platform%20for%20psychological%20assessment&descAlignY=60&descSize=17&descColor=a8f0e0&animation=fadeIn" width="100%"/>
 
 </div>
 
@@ -16,11 +16,10 @@
 
 <br/>
 
-[![Platform](https://img.shields.io/badge/Platform-Android%208.1%2B-1a0a4e?style=for-the-badge&logo=android&logoColor=a78bfa&labelColor=0d0221&color=1a0a4e)](https://developer.android.com)&nbsp;
-[![Language](https://img.shields.io/badge/Language-Java-1a0a4e?style=for-the-badge&logo=openjdk&logoColor=fb923c&labelColor=0d0221&color=1a0a4e)](https://www.java.com)&nbsp;
-[![UI](https://img.shields.io/badge/UI-ViewFlipper%20%2B%20ConstraintLayout-1a0a4e?style=for-the-badge&logo=android&logoColor=c4b5fd&labelColor=0d0221&color=1a0a4e)](https://developer.android.com/reference/android/widget/ViewFlipper)&nbsp;
-[![Data Structure](https://img.shields.io/badge/Data%20Structure-Linked%20Queue-1a0a4e?style=for-the-badge&logo=databricks&logoColor=a78bfa&labelColor=0d0221&color=1a0a4e)](#)&nbsp;
-[![Stars](https://img.shields.io/github/stars/kumarpiyushraj/WAT-App?style=for-the-badge&logo=github&color=fbbf24&labelColor=0d1117&label=Stars)](https://github.com/kumarpiyushraj/WAT-App)
+[![Platform](https://img.shields.io/badge/Platform-Android%208.1%2B-003d3d?style=for-the-badge&logo=android&logoColor=02c39a&labelColor=001a1a&color=003d3d)](https://developer.android.com)&nbsp;
+[![Language](https://img.shields.io/badge/Language-Java-003d3d?style=for-the-badge&logo=openjdk&logoColor=fb923c&labelColor=001a1a&color=003d3d)](https://www.java.com)&nbsp;
+[![UI](https://img.shields.io/badge/UI-ViewFlipper%20%2B%20ConstraintLayout-003d3d?style=for-the-badge&logo=android&logoColor=a8f0e0&labelColor=001a1a&color=003d3d)](https://developer.android.com/reference/android/widget/ViewFlipper)&nbsp;
+[![Data Structure](https://img.shields.io/badge/Data%20Structure-Linked%20Queue-003d3d?style=for-the-badge&logo=databricks&logoColor=02c39a&labelColor=001a1a&color=003d3d)](#data-structure)&nbsp;
 
 <br/><br/>
 
@@ -34,7 +33,7 @@
 <!--  STATS STRIP                                                            -->
 <!---------------------------------------------------------------------------->
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:140533,100:1e0b4e&height=90&text=Sequential%20Word%20Display%20%C2%B7%20Timed%20Responses%20%C2%B7%20Linked-List%20Queue%20%C2%B7%20Multi-Stage%20Flow&fontSize=15&fontColor=c4b5fd&fontAlignY=35&desc=Designed%20for%20SSB%20interviews%2C%20clinical%20psychology%2C%20research%2C%20and%20self-evaluation&descSize=14&descColor=ede9fe&descAlignY=68" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:002020,100:003030&height=90&text=Sequential%20Word%20Display%20%C2%B7%20Timed%20Responses%20%C2%B7%20Linked-List%20Queue%20%C2%B7%20Multi-Stage%20Flow&fontSize=15&fontColor=a8f0e0&fontAlignY=35&desc=Designed%20for%20SSB%20interviews%2C%20clinical%20psychology%2C%20research%2C%20and%20self-evaluation&descSize=14&descColor=e0fff8&descAlignY=68" width="100%"/>
 
 <br/><br/>
 
@@ -44,7 +43,7 @@
 
 <div align="center">
 
-### 🔮 &nbsp;At a Glance
+### 🌿 &nbsp;At a Glance
 
 | 📱 Min SDK | 🗣️ Assessment | 🧩 Data Structure | ⏱️ Timer | 🎨 UI | 🔒 Storage |
 |:---:|:---:|:---:|:---:|:---:|:---:|
@@ -58,7 +57,7 @@
 <!--  TABLE OF CONTENTS                                                      -->
 <!---------------------------------------------------------------------------->
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1e0b4e,100:0d0221&height=64&text=%F0%9F%93%8B%20%20Table%20of%20Contents&fontSize=22&fontColor=ede9fe&fontAlignY=52&fontAlign=50" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:003030,100:001a1a&height=64&text=%F0%9F%93%8B%20%20Table%20of%20Contents&fontSize=22&fontColor=e0fff8&fontAlignY=52&fontAlign=50" width="100%"/>
 
 <br/>
 
@@ -81,7 +80,7 @@
 <!--  ABOUT                                                                  -->
 <!---------------------------------------------------------------------------->
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:2a0e6e,100:110328&height=64&text=%F0%9F%93%96%20%20About%20WAT&fontSize=22&fontColor=c4b5fd&fontAlignY=52&fontAlign=50" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:004040,100:001e1e&height=64&text=%F0%9F%93%96%20%20About%20WAT&fontSize=22&fontColor=a8f0e0&fontAlignY=52&fontAlign=50" width="100%"/>
 
 <br/>
 
@@ -109,7 +108,7 @@
 <!--  FEATURES                                                               -->
 <!---------------------------------------------------------------------------->
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1a054a,100:080115&height=64&text=%E2%9C%A8%20%20Features&fontSize=22&fontColor=a78bfa&fontAlignY=52&fontAlign=50" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:002828,100:000e0e&height=64&text=%E2%9C%A8%20%20Features&fontSize=22&fontColor=02c39a&fontAlignY=52&fontAlign=50" width="100%"/>
 
 <br/>
 
@@ -235,7 +234,7 @@ Both activities support clean state resets:
 <!--  APP FLOW                                                               -->
 <!---------------------------------------------------------------------------->
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:2a0e6e,100:0d0221&height=64&text=%F0%9F%94%81%20%20App%20Flow&fontSize=22&fontColor=c4b5fd&fontAlignY=52&fontAlign=50" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:004040,100:001e1e&height=64&text=%F0%9F%94%81%20%20App%20Flow&fontSize=22&fontColor=a8f0e0&fontAlignY=52&fontAlign=50" width="100%"/>
 
 <br/>
 
@@ -243,42 +242,42 @@ Both activities support clean state resets:
 ┌─────────────────────────────────────────────────────────────────┐
 │                         MainActivity                            │
 │                                                                 │
-│  ┌──────────────┐   [Start]   ┌──────────────────────────────┐  │
-│  │  Stage 1     │ ──────────► │  Stage 2                     │  │
-│  │  Introduction│             │  Word Entry Loop             │  │
-│  │  Screen      │             │                              │  │
-│  └──────────────┘             │  [SUBMIT WORD] → enqueue()   │  │
-│                               │  [Reset]      → clear queue  │  │
-│                               │  [Next]       → validate →   │  │
-│                               └──────────────┬───────────────┘  │
+│  ┌──────────────┐   [Start]   ┌──────────────────────────────┐ │
+│  │  Stage 1     │ ──────────► │  Stage 2                     │ │
+│  │  Introduction│             │  Word Entry Loop             │ │
+│  │  Screen      │             │                              │ │
+│  └──────────────┘             │  [SUBMIT WORD] → enqueue()   │ │
+│                               │  [Reset]      → clear queue  │ │
+│                               │  [Next]       → validate →   │ │
+│                               └──────────────┬───────────────┘ │
 │                                              │                  │
-│                               ┌──────────────▼───────────────┐  │
-│                               │  Stage 3                     │  │
-│                               │  Pre-Test Summary            │  │
-│                               │                              │  │
-│                               │  "N words · 15s each"        │  │
-│                               │  [BEGIN TEST] ──────────────►│  │
-│                               └──────────────────────────────┘  │
+│                               ┌──────────────▼───────────────┐ │
+│                               │  Stage 3                     │ │
+│                               │  Pre-Test Summary            │ │
+│                               │                              │ │
+│                               │  "N words · 15s each"        │ │
+│                               │  [BEGIN TEST] ──────────────►│ │
+│                               └──────────────────────────────┘ │
 └─────────────────────────────────────────────────────────────────┘
                                        │
                                        ▼
 ┌─────────────────────────────────────────────────────────────────┐
 │                        MainActivity2                            │
 │                                                                 │
-│   ┌──────────┐   Dequeue words   ┌─────────────────────────┐    │
-│   │  Queue   │ ────────────────► │  ViewFlipper            │    │
-│   │  (FIFO)  │                   │  Word 1 → Word 2 → ...  │    │
-│   └──────────┘                   │  [animated slides]      │    │
-│                                  └──────────┬──────────────┘    │
-│   ┌──────────┐  15s countdown              │                    │
-│   │  Timer   │ ─────────────────────────── │                    │
-│   │  Handler │  auto-advance               │                    │
-│   └──────────┘                             ▼                    │
-│                                  ┌─────────────────────────┐    │
-│                                  │  "Test Completed" Card  │    │
-│                                  │  Timer hidden           │    │
+│   ┌──────────┐   Dequeue words   ┌─────────────────────────┐   │
+│   │  Queue   │ ────────────────► │  ViewFlipper            │   │
+│   │  (FIFO)  │                   │  Word 1 → Word 2 → ...  │   │
+│   └──────────┘                   │  [animated slides]      │   │
+│                                  └──────────┬──────────────┘   │
+│   ┌──────────┐  15s countdown              │                   │
+│   │  Timer   │ ─────────────────────────── │                   │
+│   │  Handler │  auto-advance               │                   │
+│   └──────────┘                             ▼                   │
+│                                  ┌─────────────────────────┐   │
+│                                  │  "Test Completed" Card  │   │
+│                                  │  Timer hidden           │   │
 │                                  │  [Restart] → MainActivity│   │
-│                                  └─────────────────────────┘    │
+│                                  └─────────────────────────┘   │
 └─────────────────────────────────────────────────────────────────┘
 ```
 
@@ -289,7 +288,7 @@ Both activities support clean state resets:
 <!--  SCREEN BREAKDOWN                                                       -->
 <!---------------------------------------------------------------------------->
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1a054a,100:080115&height=64&text=%F0%9F%96%A5%EF%B8%8F%20%20Screen%20Breakdown&fontSize=22&fontColor=a78bfa&fontAlignY=52&fontAlign=50" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:002828,100:000e0e&height=64&text=%F0%9F%96%A5%EF%B8%8F%20%20Screen%20Breakdown&fontSize=22&fontColor=02c39a&fontAlignY=52&fontAlign=50" width="100%"/>
 
 <br/>
 
@@ -337,7 +336,7 @@ Drawables use rounded-corner `layer-list` shapes (`back.xml` through `back5.xml`
 <!--  TECH STACK                                                             -->
 <!---------------------------------------------------------------------------->
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:2a0e6e,100:0d0221&height=64&text=%F0%9F%9B%A0%EF%B8%8F%20%20Tech%20Stack&fontSize=22&fontColor=c4b5fd&fontAlignY=52&fontAlign=50" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:004040,100:001e1e&height=64&text=%F0%9F%9B%A0%EF%B8%8F%20%20Tech%20Stack&fontSize=22&fontColor=a8f0e0&fontAlignY=52&fontAlign=50" width="100%"/>
 
 <br/>
 
@@ -367,7 +366,7 @@ Drawables use rounded-corner `layer-list` shapes (`back.xml` through `back5.xml`
 <!--  DATA STRUCTURE                                                         -->
 <!---------------------------------------------------------------------------->
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1a054a,100:080115&height=64&text=%F0%9F%A7%A9%20%20Data%20Structure%20%E2%80%94%20The%20Queue&fontSize=22&fontColor=a78bfa&fontAlignY=52&fontAlign=50" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:002828,100:000e0e&height=64&text=%F0%9F%A7%A9%20%20Data%20Structure%20%E2%80%94%20The%20Queue&fontSize=22&fontColor=02c39a&fontAlignY=52&fontAlign=50" width="100%"/>
 
 <br/>
 
@@ -430,7 +429,7 @@ ViewFlipper:    [Word 1]    [Word 2]    [Word 3]    [Word 4]    [Completed]
 <!--  GETTING STARTED                                                        -->
 <!---------------------------------------------------------------------------->
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:2a0e6e,100:0d0221&height=64&text=%F0%9F%9A%80%20%20Getting%20Started&fontSize=22&fontColor=c4b5fd&fontAlignY=52&fontAlign=50" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:004040,100:001e1e&height=64&text=%F0%9F%9A%80%20%20Getting%20Started&fontSize=22&fontColor=a8f0e0&fontAlignY=52&fontAlign=50" width="100%"/>
 
 <br/>
 
@@ -452,7 +451,7 @@ ViewFlipper:    [Word 1]    [Word 2]    [Word 3]    [Word 4]    [Completed]
 
 **Step 1 — Clone the repository**
 ```bash
-git clone https://github.com/kumarpiyushraj/WAT-App.git
+git clone https://github.com/kumarpiyushraj/Word-Association-Test.git
 ```
 
 **Step 2 — Open in Android Studio**
@@ -478,7 +477,7 @@ git clone https://github.com/kumarpiyushraj/WAT-App.git
 <!--  HOW TO USE                                                             -->
 <!---------------------------------------------------------------------------->
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1a054a,100:080115&height=64&text=%F0%9F%93%B1%20%20How%20to%20Use&fontSize=22&fontColor=a78bfa&fontAlignY=52&fontAlign=50" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:002828,100:000e0e&height=64&text=%F0%9F%93%B1%20%20How%20to%20Use&fontSize=22&fontColor=02c39a&fontAlignY=52&fontAlign=50" width="100%"/>
 
 <br/>
 
@@ -511,7 +510,7 @@ git clone https://github.com/kumarpiyushraj/WAT-App.git
 <!--  CONTRIBUTING                                                           -->
 <!---------------------------------------------------------------------------->
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:2a0e6e,100:0d0221&height=64&text=%F0%9F%A4%9D%20%20Contributing&fontSize=22&fontColor=c4b5fd&fontAlignY=52&fontAlign=50" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:004040,100:001e1e&height=64&text=%F0%9F%A4%9D%20%20Contributing&fontSize=22&fontColor=a8f0e0&fontAlignY=52&fontAlign=50" width="100%"/>
 
 <br/>
 
@@ -536,7 +535,7 @@ Contributions, issues, and feature suggestions are welcome!
 
 ```bash
 # Fork the repository, then clone your fork
-git clone https://github.com/YOUR_USERNAME/WAT-App.git
+git clone https://github.com/kumarpiyushraj/Word-Association-Test.git
 
 # Create a feature branch
 git checkout -b feature/your-feature-name
@@ -565,7 +564,7 @@ git push origin feature/your-feature-name
 <!--  AUTHOR                                                                 -->
 <!---------------------------------------------------------------------------->
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1a054a,100:080115&height=64&text=%F0%9F%91%A4%20%20Author&fontSize=22&fontColor=a78bfa&fontAlignY=52&fontAlign=50" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:002828,100:000e0e&height=64&text=%F0%9F%91%A4%20%20Author&fontSize=22&fontColor=02c39a&fontAlignY=52&fontAlign=50" width="100%"/>
 
 <br/>
 
@@ -577,8 +576,8 @@ git push origin feature/your-feature-name
 
 <br/>
 
-[![GitHub](https://img.shields.io/badge/GitHub-kumarpiyushraj-1a0a4e?style=for-the-badge&logo=github&logoColor=white&labelColor=0d0221)](https://github.com/kumarpiyushraj)&nbsp;
-[![Email](https://img.shields.io/badge/Email-kmpiyushraj%40gmail.com-1a0a4e?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d0221)](mailto:kmpiyushraj@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-kumarpiyushraj-003d3d?style=for-the-badge&logo=github&logoColor=white&labelColor=001a1a)](https://github.com/kumarpiyushraj)&nbsp;
+[![Email](https://img.shields.io/badge/Email-kmpiyushraj%40gmail.com-003d3d?style=for-the-badge&logo=gmail&logoColor=white&labelColor=001a1a)](mailto:kmpiyushraj@gmail.com)
 
 </div>
 
@@ -594,12 +593,8 @@ git push origin feature/your-feature-name
 
 <br/>
 
-[![Star this repo](https://img.shields.io/github/stars/kumarpiyushraj/WAT-App?style=for-the-badge&logo=github&color=fbbf24&labelColor=0d1117&label=Star%20this%20repo)](https://github.com/kumarpiyushraj/WAT-App/stargazers)
-
-<br/>
-
 *© 2023 Kumar Piyush Raj &nbsp;·&nbsp; [GitHub @kumarpiyushraj](https://github.com/kumarpiyushraj)*
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:a78bfa,40:6d3de8,70:3b1fa8,100:0d0221&height=160&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:02c39a,40:00a896,70:006b6b,100:001a1a&height=160&section=footer" width="100%"/>
 
 </div>
